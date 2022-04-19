@@ -1,0 +1,6 @@
+# Para clonar repositório do gitHub
+git clone https://github.com/dianasandrade2016/dio-desafio-github-primeiro-repositorio.git
+
+# Adicionar arquivos/pastas ao repositório do gitHub
+git add .
+
