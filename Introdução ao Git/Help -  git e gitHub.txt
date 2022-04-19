@@ -1,6 +1,18 @@
 # Para clonar repositório do gitHub
 git clone https://github.com/dianasandrade2016/dio-desafio-github-primeiro-repositorio.git
 
-# Adicionar arquivos/pastas ao repositório do gitHub
+# Adicionar arquivos/pastas ao controle de versões local
 git add .
+git add -A
+
+# Adicionar coentários no commit
+git commit -m "Inclusão das anotações"
+
+# passo a passo para gerar token
+https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer?gclid=CjwKCAjwu_mSBhAYEiwA5BBmfygiCwOObTzGbZKQyJxPcn4NmAUxoE1-WQZ0yCYUQkZmuSWQQQ9fSRoCAAMQAvD_BwE
+
+# Adicionar arquivos/pastas ao repositório do gitHub na nuvem 
+git push https://<new_token>@github.com/<git_url>
+
+
 
